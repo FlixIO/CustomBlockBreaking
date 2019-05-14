@@ -1,0 +1,10 @@
+name: CustomBlockBreak
+version: 1.0
+author: Flix Kei
+main: io.flixion.blockbreak.BlockBreak
+description: A custom plugin requested by MCMarket user https://www.mc-market.org/members/61829/
+
+commands:
+  rebuild:
+    usage: /<command>
+    description: Reset all blocks to their original data and durability
